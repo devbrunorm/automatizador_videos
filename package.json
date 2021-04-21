@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Brunorm96/automatizador_videos#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
+    "gm": "^1.23.1",
     "googleapis": "^71.0.0",
     "image-downloader": "^4.0.2",
     "readline-sync": "^1.4.10",
