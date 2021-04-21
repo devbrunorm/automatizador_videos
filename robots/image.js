@@ -10,7 +10,7 @@ async function robot() {
 
     await fetchImagesOfAllSentences(content)
     await downloadAllImages(content)
-    
+
     state.save(content)
 
     async function fetchImagesOfAllSentences(content) {
